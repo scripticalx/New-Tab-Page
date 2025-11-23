@@ -18,6 +18,7 @@ A modern, aesthetic New Tab Page built with React and Vite.
 *   **Backgrounds**: Support for solid colors, images, and video backgrounds.
 *   **Visual Effects**: Adjustable blur and darken intensity for better readability.
 *   **Persistence**: All settings are saved locally using `useLocalStorage`.
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/d915a722-ae61-42e1-884f-9ea4a333bc73" />
 
 ## Tech Stack
 
