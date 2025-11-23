@@ -26,7 +26,8 @@ A modern, aesthetic New Tab Page built with React and Vite.
 
 Use this chrome extension
 https://chromewebstore.google.com/detail/custom-new-tab/lfjnnkckddkopjfgmbcpdiolnmfobflj
-<img width="613" height="842" alt="image" src="https://github.com/user-attachments/assets/c1145fc8-5789-45d0-b709-3d11fb1cbc9a" />
+<img width="566" height="795" alt="image" src="https://github.com/user-attachments/assets/973415d7-4dd5-48d6-ab56-4eed7ac37979" />
+
 
 ## Tech Stack
 
