@@ -1,6 +1,8 @@
-# SORA - Custom New Tab Page
+# Custom New Tab Page
 
 A modern, aesthetic New Tab Page built with React and Vite.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
 
@@ -20,6 +22,12 @@ A modern, aesthetic New Tab Page built with React and Vite.
 *   **Persistence**: All settings are saved locally using `useLocalStorage`.
 <img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/d915a722-ae61-42e1-884f-9ea4a333bc73" />
 
+## Usage/Examples
+
+Use this chrome extension
+https://chromewebstore.google.com/detail/custom-new-tab/lfjnnkckddkopjfgmbcpdiolnmfobflj
+<img width="613" height="842" alt="image" src="https://github.com/user-attachments/assets/c1145fc8-5789-45d0-b709-3d11fb1cbc9a" />
+
 ## Tech Stack
 
 *   **Framework**: React + Vite
@@ -27,8 +35,7 @@ A modern, aesthetic New Tab Page built with React and Vite.
 *   **Icons**: Lucide React
 *   **Utilities**: `canvas-confetti`, `@dnd-kit/core`
 
-## Getting Started
-
+## Run Local
 1.  **Install Dependencies**
     ```bash
     npm install
@@ -43,6 +50,10 @@ A modern, aesthetic New Tab Page built with React and Vite.
     ```bash
     npm run build
     ```
+
+## Contributing
+
+We welcome contributions! Please open an issue or submit a pull request to contribute to the project.
 
 ## License
 
